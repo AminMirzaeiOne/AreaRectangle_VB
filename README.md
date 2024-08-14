@@ -26,4 +26,4 @@ It takes the length and width of the rectangle desired by the user and calculate
 6 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="676" alt="Capture8" src="https://github.com/user-attachments/assets/0a434c33-651a-45d4-8c5c-d5ce6f7cf086">
